@@ -1,6 +1,9 @@
-<h2 align="left">Salve! Sou Juan Tanan um aspirante a programador🐧</h2>
+<h2 align="left">Salve! Sou Juan Tanan, um aspirante a programador🐧</h2>
 
 ![Header](https://media.licdn.com/dms/image/v2/D4D16AQEeEX745Uu5cA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721914980851?e=1749081600&v=beta&t=5Ghma5wpf0ssC9FPr8jsc-8Ok-Zn1ZF9ajEhjZAFX2I)
+
+<h2 aling="lef">Software Developer | Proficient in NodeJS, JavaScript, Python, MySQL, C++ and Data Analysis</h2>
+
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCTanan&show_icons=true&theme=transparent)
@@ -35,8 +38,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jctanan/jctanan/output/snake.svg" alt="Snake animation" />
-
-###
